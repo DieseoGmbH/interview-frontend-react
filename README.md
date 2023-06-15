@@ -14,6 +14,8 @@ We use the following API to retrieve the informations: [themoviedb.org](https://
 
 ## How to start
 
+Download the repository as zip file to your local machine.
+
 Install the required dependencies
 
 ```bash
@@ -94,6 +96,6 @@ Use the onRequest function to request new data, passing in updated value of page
 
 ## After implementation
 
-After implementing/fixing the required features/bugs please create a new Pull Request to the main branch of this repo.
+After implementing/fixing the required features/bugs please send the zip file in email.
 
 ### GOOD LUCK
