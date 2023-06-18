@@ -96,6 +96,6 @@ Use the onRequest function to request new data, passing in updated value of page
 
 ## After implementation
 
-After implementing/fixing the required features/bugs please send the zip file in email.
+After implementing/fixing the required features/bugs please send the edited zip file in email and this must be done in 2 hours after you recive the email with the link to this repository.
 
 ### GOOD LUCK
